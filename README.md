@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KathrynHallARGA
 - 👀 I am the Product Champion for the Australian Reference Genome Atlas (ARGA).
-- 🌱 Our project is at an exciting stage.  We are just starting!  
+- 🌱 Our project is at an exciting stage.  We are almost ready to launch at full product stage!  
 - 🌱 We are building a new online platform to help aggregate all the genomic data about Australian species.
-- 💞️ I’m looking to collaborate on genomics and other omics data projects for Australian native and invasive species.
+- 💞️ I’m looking to collaborate on genomics and other -omics data projects for Australian native and invasive species.
 - 📫 How to reach me: kathryn.hall@csiro.au
 
 <!---
