@@ -2,8 +2,14 @@ Hi, I’m @KathrynHallARGA
 
 I am the Scientific Product Manager for the Australian Reference Genome Atlas (ARGA).
 We are building a new online platform to help aggregate all the genomic data about Australian species.
+
 Our project is at an exciting stage...
-We have a product up online - you can check it out at https://app.arga.org.au - though we are still developing bits and bobs for it.
+We have a product up online!
+
+Check it out here: https://app.arga.org.au 
+
+We are still developing bits and bobs for it and making progress towards bringing high-level overviews and synthesis of data availability, as well as ways to interact and explore data in new ways.
+
 I’m looking to collaborate on genomics and other -omics data projects for Australian native and invasive species.
 
 Reach me here: kathryn.hall@csiro.au
